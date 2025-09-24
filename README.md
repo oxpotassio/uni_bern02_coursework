@@ -9,3 +9,4 @@ Description of the directory layout.
 - `lab_2` contains the files related to the exercise "Data wrangling and formats"
 - `lab_3` contains the files related to the exercise "Regression"
 - `lab_4` contains the files related to the exercise "Generalised Linear Regression"
+- `lab_5` contains the files related to the exercise "Hierarchical models and testing"
