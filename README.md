@@ -10,3 +10,4 @@ Description of the directory layout.
 - `lab_3` contains the files related to the exercise "Regression"
 - `lab_4` contains the files related to the exercise "Generalised Linear Regression"
 - `lab_5` contains the files related to the exercise "Hierarchical models and testing"
+- `lab_6` contains the files related to the exercise "PCA and Clustering"
